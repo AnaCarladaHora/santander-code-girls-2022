@@ -1,3 +1,9 @@
-# santander-code-girls-2022
-Java
-ANOTAÇÕES DA AULA DE GIT E GITHUB
+# Bootcamp Santander Code Girls 2022
+Anotações e projetos propostos pelo Bootcamp Santander Code Girls - [DIO]
+
+(https://web.dio.me)
+
+Em andamento...
+
+## Links Úteis
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
